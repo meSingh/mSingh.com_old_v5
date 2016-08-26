@@ -4,7 +4,10 @@ layout: post
 date: 2016-08-27 02:40
 image: '/assets/images/'
 headerImage: false
-tag: laragist, larval, packages
+tag:
+- laragist
+- larval
+- packages
 projects: true
 author: msingh
 description: "Laragist is a community-supported catalog of laravel packages and libraries curated by Khurafati Gang"
