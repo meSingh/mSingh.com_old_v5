@@ -1,9 +1,10 @@
 # main text of home
 name: Mandeep Singh
-bio: Freelance Startups Developer, Laravel Expert, Full Stack Developer, Architect & Consultant
+designation: Startups Builder, Laravel Expert, Full Stack Developer & Consultant.
+bio: A full stack web developer and consultant based in Delhi, IN. I work on Laravel (PHP Framework), AmgularJS, ViewJS & Many Others.
 
 # twitter summary info
-description: Freelance Startups Developer, Laravel Expert, Full Stack Developer, Architect & Consultant
+description: A full stack web developer and consultant based in Delhi, IN. I have experience taking projects from conception to full fledged products. Through out my experience of 6+ years, I've working on Laravel (PHP Framework), AmgularJS, ViewJS & Many Others.
 
 # if it's an external image, update below for true
 # better with square images
@@ -45,7 +46,7 @@ email: im@msingh.me
 authors:
     msingh:
         name: Mandeep Singh
-        bio: Freelance Startups Developer, Laravel Expert, Full Stack Developer, Architect & Consultant
+        bio: A full stack web developer and consultant based in Delhi, IN. I work on Laravel (PHP Framework), AmgularJS, ViewJS & Many Others.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: meSingh9
@@ -67,13 +68,13 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # show next & prev links in blog post?
 blog-nav-links: false
