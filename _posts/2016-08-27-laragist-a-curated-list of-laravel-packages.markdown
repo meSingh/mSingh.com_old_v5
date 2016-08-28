@@ -1,5 +1,5 @@
 ---
-title: "Laragist, laravel packages and libraries"
+title: "Laragist, a curated list of laravel packages"
 layout: post
 date: 2016-08-27 02:40
 image: '/assets/images/'
@@ -16,5 +16,7 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.gi
 externalLink: false
 ---
 Laragist is a community-supported catalog of laravel packages and libraries curated by Khurafati Gang
+
+More details coming soon.......
 
 [laragist.org](http://laragist.org)
