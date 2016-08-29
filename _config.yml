@@ -1,10 +1,10 @@
 # main text of home
 name: Mandeep Singh
 designation: Startups Builder, Laravel Expert, Full Stack Developer & Consultant.
-bio: A full stack web developer and consultant based in Delhi, IN. I work on Laravel (PHP Framework), AmgularJS, ViewJS & Many Others.
+bio: A full stack web developer and consultant based in Delhi, IN. I work on Laravel (PHP Framework), Angular.js, View.js & Many Others.
 
 # twitter summary info
-description: A full stack web developer and consultant based in Delhi, IN. I have experience taking projects from conception to full fledged products. Through out my experience of 6+ years, I've working on Laravel (PHP Framework), AmgularJS, ViewJS & Many Others.
+description: A full stack web developer and consultant based in Delhi, IN. I have experience taking projects from conception to full fledged products. Through out my experience of 6+ years, I've working on Laravel (PHP Framework), Angular.js, View.js & Many Others.
 
 # if it's an external image, update below for true
 # better with square images
@@ -46,7 +46,7 @@ email: im@msingh.me
 authors:
     msingh:
         name: Mandeep Singh
-        bio: A full stack web developer and consultant based in Delhi, IN. I work on Laravel (PHP Framework), AmgularJS, ViewJS & Many Others.
+        bio: A full stack web developer and consultant based in Delhi, IN. I work on Laravel (PHP Framework), Angular.js, View.js & Many Others.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: meSingh9
