@@ -6,7 +6,7 @@ image: '/assets/images/'
 headerImage: false
 tag:
 - laragist
-- larval
+- laravel
 - packages
 projects: true
 author: msingh
