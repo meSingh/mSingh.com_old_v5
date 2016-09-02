@@ -11,6 +11,7 @@ tag:
 blog: true
 excerpt: Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
 author: msingh
+sitemap: false
 description: Markdown summary with different options
 ---
 

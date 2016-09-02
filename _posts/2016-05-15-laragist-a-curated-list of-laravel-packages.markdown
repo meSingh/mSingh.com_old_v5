@@ -1,8 +1,9 @@
 ---
 title: "Laragist, a curated list of laravel packages"
+name: laragist
 layout: post
 date: 2016-05-15 02:40
-image: '/assets/projects/laragist.png'
+image: '/assets/projects/laragist/square.png'
 headerImage: true
 tag:
 - laragist
@@ -16,8 +17,21 @@ emoji: 'laragist'
 externalLink: false
 ---
 
-Laragist is a community-supported catalog of laravel packages and libraries curated by Khurafati Gang
+Laragist is a community-supported catalog of laravel packages and libraries.
 
-More details coming soon.......
+{:shadow: .shadow}
+![Screenshot](/assets/projects/laragist/SS01.png)
+{:shadow}
 
-[laragist.org](http://laragist.org)
+{:shadow:}
+![Screenshot](/assets/projects/laragist/SS02.png)
+{:shadow}
+
+{:shadow:}
+![Screenshot](/assets/projects/laragist/SS03.png)
+{:shadow}
+
+---
+
+[Check it out](http://laragist.org) here.
+If you need some help, just [tell me](http://github.com/Laragist/laragist.org/issues).
