@@ -76,4 +76,10 @@
             <svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.skype %}
+        <a class="link" data-title="{{ site.skype }}" href="skype:{{ site.skype }}?chat">
+            <svg class="icon icon-skype"><use xlink:href="#icon-skype"></use></svg>
+        </a>
+    {% endif %}
 </div>

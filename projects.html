@@ -9,7 +9,7 @@ title: Projects
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                     <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                     {% if post.emoji %}
-                        <img class="emoji" src="/assets/icons/{{ post.emoji }}.svg" height="32" width="32" align="absmiddle">
+                        <img class="emoji" src="/assets/projects/{{ post.emoji }}_icon.png" height="40" width="40" align="absmiddle">
                     {% endif %}
                     <h3 class="title">{{ post.title }}</h3>
                 </a>
