@@ -6,7 +6,12 @@ layout: page
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}
 
-<h1 class="title">{{ page.title }}</h1>
+<h1 class="title">
+    {% if page.emoji %}
+        <img class="emoji" src="/assets/icons/{{ page.emoji }}.svg" height="32" width="32" align="absmiddle">
+    {% endif %}
+    {{ page.title }}
+</h1>
 
 <span class="date">
     <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>

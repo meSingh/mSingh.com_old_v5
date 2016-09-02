@@ -2,8 +2,8 @@
 title: "Laragist, a curated list of laravel packages"
 layout: post
 date: 2016-08-27 02:40
-image: '/assets/images/'
-headerImage: false
+image: '/assets/projects/laragist.png'
+headerImage: true
 tag:
 - laragist
 - laravel
@@ -12,7 +12,7 @@ projects: true
 author: msingh
 description: "Laragist is a community-supported catalog of laravel packages and libraries curated by Khurafati Gang"
 hidden: true # don't count this post in blog pagination
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+emoji: false
 externalLink: false
 ---
 Laragist is a community-supported catalog of laravel packages and libraries curated by Khurafati Gang

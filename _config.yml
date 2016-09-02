@@ -30,7 +30,7 @@ highlighter: rouge
 disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: false
+# facebook: false
 twitter: meSingh9
 # google: mygoogle
 # instagram: myinstagram
@@ -42,6 +42,7 @@ github: meSingh
 # medium: medium
 # vimeo: myvimeo
 email: im@msingh.me
+phone: +919999340849
 
 authors:
     msingh:

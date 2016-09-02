@@ -70,4 +70,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.phone %}
+        <a class="link" data-title="{{ site.phone }}" href="tel:{{ site.phone }}">
+            <svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg>
+        </a>
+    {% endif %}
 </div>
