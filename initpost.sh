@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://koppl.in/indigo"
+BLOG_URL="https://www.msingh.com/blog/"
 
 # Set your assets URL
 ASSETS_URL="assets/images/"
@@ -111,6 +111,7 @@ initpost_content() {
 
 echo "---"
 echo "title: \"${POST_TITLE}\""
+echo "name: \"${POST_TITLE}\""
 echo "layout: post"
 echo "date: ${CURRENT_DATE} ${TIME}"
 echo "image: '/assets/images/'"
@@ -118,7 +119,9 @@ echo "description:"
 echo "tag:"
 echo "blog: true"
 echo "jemoji:"
-echo "author:"
+echo "author: msingh"
+echo "headerImage: true"
+echo "externalLink: false"
 echo "---"
 
 }
