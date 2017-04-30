@@ -25,6 +25,10 @@ layout: page
 
 {{content}}
 
+{% if page.medium %}
+    <small><a href="{{ page.medium.link }}" target="_blank">{{ page.medium.text }}</a></small>
+{% endif %}
+
 {% if page.blog and site.blog-nav-links %}
     <div class="blog-navigation">
         {% if page.previous.url %}

@@ -11,6 +11,9 @@ jemoji:
 author: msingh
 headerImage: true
 externalLink: false
+medium: 
+    link: https://medium.com/@mSingh/how-i-started-my-blog-in-a-cab-319f81a9b9c1
+    text: Read more on Medium
 ---
 
 This has been a long due task for me. I have been thinking of starting my blog for several years, and honestly, I do start out in many different ways. But, they all ended up in the same way, for the same reason. All had the same problem that I was not passionate enough to keep them going. 
