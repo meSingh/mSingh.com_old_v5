@@ -25,6 +25,10 @@ layout: page
 
 {{content}}
 
+{% if page.twitter %}
+<small style="float: right"><a href="{{ page.twitter }}" target="_blank">Comment on twitter</a></small>
+{% endif %}
+
 {% if page.medium %}
     <small><a href="{{ page.medium.link }}" target="_blank">{{ page.medium.text }}</a></small>
 {% endif %}

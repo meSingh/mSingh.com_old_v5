@@ -1,0 +1,37 @@
+---
+title: "100 Products"
+name: "100 Products"
+layout: post
+date: 2017-08-29 03:00
+description:
+tag: 
+- a target
+blog: true
+jemoji:
+author: msingh
+headerImage: true
+externalLink: false
+---
+
+Life is strange, complicated, beautiful and many other things but living life is incredible. 
+
+One must feel the high's and low's to understand how many colors it has. There must be something meaningful to comprehend the value of life. We often think of life as a luxury that we can't afford and work our ass off to achieve, to acquire and to show off these unmeaningful goals. But there is always more to life, something not measurable by anything. 
+
+<div class="text-center">
+    <img src="/assets/images/100_products.jpg"/>
+</div>
+
+A goal of life is something you must have your own and not the one that somebody gave you. It must reflect something that you truly enjoy doing and something that brings an inner happiness.
+
+For some people, it's as simple as their family, and for others, it's doing the impossible, for me, it's building and creating products. It might sound vague and probably strange but to me, launching a new product gives me a great satisfaction, it gives me a feeling of a creator and an artist, who spends days in transforming his ideas into his masterpieces, who feels proud when they finally show it off to the world. That's the feeling that keeps me going. 
+
+Today, I'm setting my goal to create a 100 products, i.e., website, platforms, or apps for the world to use. My goal will be to make them useful to as many people as possible and to have them available for free to some extent so that everyone could play around with my masterpieces and make me proud. 
+
+It is going to be very difficult, as creating a 100 products mean months of efforts and having them live together at the same time is also a different achievement altogether. But I'm certain I can do it, and I will do it. 
+
+I will also try to do write-ups of these products and link them here in this post, so keep an eye on this place for some excellent products. And if you have an idea you want me to work on, then, please feel free to contact me. I will most certainly also do some pro-Bono products. So please shoot me an email if you have anything in mind. 
+
+
+
+
+
