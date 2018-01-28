@@ -1,5 +1,6 @@
 # main text of home
 name: Mandeep Singh
+title: Mandeep Singh
 designation: Startups Builder, Laravel Expert, Full Stack Developer & Consultant.
 bio: A full stack web developer and consultant based in Delhi, IN. I work on Laravel (PHP Framework), Angular.js, Vue.js & Many Others.
 
@@ -102,6 +103,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://www.msingh.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
